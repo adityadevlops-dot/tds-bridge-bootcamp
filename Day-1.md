@@ -2,12 +2,13 @@
 ---
 
 --- Before Day-1 ---
- Github, Linux basics
+I already knew Github and linux basics
 --- 
 
 ## Day-1 Checklist
 
-- [x] an run `python --version`, `git --version`, and `uv --version` without errors
+- [x] I can open a Linux terminal and recognize the shell prompt (`user@machine:~$`)
+- [x] I can run `python --version`, `git --version`, and `uv --version` without errors
 - [x] I can open VS Code connected to WSL/Linux using `code .`
 - [x] I know what `~` means and can navigate to my home directory using `cd ~`
 - [x] I can create folders and files using `mkdir` and `touch`, and list them with `ls`
@@ -18,12 +19,14 @@
 - [x] I have a GitHub account and have created the `tds-bootcamp` repository
 
 --- After Day-1 ---
- Overwrite and append , More things in linux
+overwrite and append
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
- good
+doing great
 ---
 
 ---
 ---
+
+You can write your personal notes here; they will not be parsed and are for your own reference.
