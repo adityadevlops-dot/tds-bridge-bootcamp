@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-1 ---
-I already knew Github, Linux basics
+ Github, Linux basics
 --- 
 
 ## Day-1 Checklist
@@ -18,11 +18,11 @@ I already knew Github, Linux basics
 - [x] I have a GitHub account and have created the `tds-bootcamp` repository
 
 --- After Day-1 ---
-I learned these things as well, apart from the checklist Overwrite and append , More things in linux
+ Overwrite and append , More things in linux
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-This is my feedback good
+ good
 ---
 
 ---
