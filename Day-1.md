@@ -7,7 +7,7 @@ I already knew Github, Linux basics
 
 ## Day-1 Checklist
 
-- [x]an run `python --version`, `git --version`, and `uv --version` without errors
+- [x] an run `python --version`, `git --version`, and `uv --version` without errors
 - [x] I can open VS Code connected to WSL/Linux using `code .`
 - [x] I know what `~` means and can navigate to my home directory using `cd ~`
 - [x] I can create folders and files using `mkdir` and `touch`, and list them with `ls`
