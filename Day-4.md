@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-4 ---
-I already knew % core HTTP methods
+I already knew 5 core HTTP methods
 --- 
 
 ## Day-4 Checklist
